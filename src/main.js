@@ -4,7 +4,7 @@ const app = new App({
 	target: document.body,
 	props: {
 		name: 'Solveur du compte est bon',
-		url: 'https://cebapi.alwaysdata.net/api/compute'
+		url: 'http://localhost:8080/api/compute'
 	}
 });
 
